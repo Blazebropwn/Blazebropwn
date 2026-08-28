@@ -1,4 +1,4 @@
-# Hi, I'm Patrik — Blazebro 👋
+# Hi, I'm Blazebro 👋
 
 I'm a professional firefighter transitioning into **software and game development**. I build games, command-line tools, and automation projects with an emphasis on clear rules, reliable behavior, and practical problem-solving.
 
