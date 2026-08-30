@@ -1,6 +1,6 @@
-# Hi, I'm Patrik — Blazebro 👋
+# Hi, I'm Blazebro 👋
 
-I'm a junior software developer focused on **TypeScript, Node.js, and full-stack web applications**. I enjoy turning clear rules into reliable software: game systems, APIs, automation, and practical developer tools.
+I'm a software developer focused on **TypeScript, Node.js, and full-stack web applications**. I enjoy turning clear rules into reliable software: game systems, APIs, automation, and practical developer tools.
 
 My professional background is in emergency services. Working as a firefighter-rescuer taught me systematic problem-solving, calm decision-making under pressure, precise procedures, and dependable teamwork — the same habits I bring to software development.
 
@@ -32,11 +32,5 @@ A full-stack push-your-luck browser game I designed and developed from concept t
 **Quality & delivery:** Vitest · Playwright · GitHub Actions · Docker · Git · Linux<br>
 **Also learning:** C++ and game-programming fundamentals
 
-## Currently
-
-- Improving THREE DICE and its automated quality checks
-- Building deeper backend and database experience
-- Learning C++ through small game-systems projects
-- Open to a first opportunity in **junior software development or technical IT support**
 
 📍 Czech Republic · 🌐 [tripleroll.xyz](https://tripleroll.xyz)
