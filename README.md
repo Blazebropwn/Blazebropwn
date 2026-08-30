@@ -17,7 +17,7 @@ A full-stack push-your-luck browser game I designed and developed from concept t
 - Unit, integration, accessibility, visual, and Playwright E2E tests
 - Docker staging, health checks, structured logging, and CI
 
-**[Play the live demo](https://tripleroll.xyz)** · **[Read the technical case study](https://github.com/Blazebropwn/three-dice-showcase)**
+**[Play the live demo](https://tripleroll.xyz)** · **[Review the public TypeScript core](https://github.com/Blazebropwn/three-dice-core)** · **[Read the case study](https://github.com/Blazebropwn/three-dice-showcase)**
 
 ## More projects
 
