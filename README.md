@@ -23,7 +23,7 @@ A full-stack push-your-luck browser game I designed and developed from concept t
 
 - 🖥️ [System Info Tool](https://github.com/Blazebropwn/system-info-tool) — cross-platform Python CLI for system metrics, exports, and live monitoring
 - 🌐 [BlazePort](https://github.com/Blazebropwn/Blazeport) — concurrent TCP scanner for authorized testing with structured result exports
-- 🔐 [Password Generator](https://github.com/Blazebropwn/rootrik-password-generator) — secure Python CLI using explicit opt-in persistence
+- 🔐 [Password Generator](https://github.com/Blazebropwn/password-generator) — secure Python CLI using explicit opt-in persistence
 
 ## Technologies
 
