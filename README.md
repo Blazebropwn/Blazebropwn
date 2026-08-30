@@ -1,40 +1,42 @@
-# Hi, I'm Blazebro 👋
+# Hi, I'm Patrik — Blazebro 👋
 
-I'm a professional firefighter transitioning into **software and game development**. I build games, command-line tools, and automation projects with an emphasis on clear rules, reliable behavior, and practical problem-solving.
+I'm a junior software developer focused on **TypeScript, Node.js, and full-stack web applications**. I enjoy turning clear rules into reliable software: game systems, APIs, automation, and practical developer tools.
 
-## What I'm working on
+My professional background is in emergency services. Working as a firefighter-rescuer taught me systematic problem-solving, calm decision-making under pressure, precise procedures, and dependable teamwork — the same habits I bring to software development.
 
-- 🎮 Building game systems and strengthening my C++ fundamentals
-- 🎲 Designing gameplay logic and probability-driven mechanics
-- 🌐 Developing with TypeScript, JavaScript, Node.js, and React
-- 🐧 Learning more about Linux, networking, APIs, and software quality
+## Featured project
 
-## Featured projects
+### 🎲 [THREE DICE — engineering case study](https://github.com/Blazebropwn/three-dice-showcase)
 
-### [THREE DICE](https://tripleroll.xyz)
+A full-stack push-your-luck browser game I designed and developed from concept to deployment.
 
-A browser-based push-your-luck dice game built around custom probability and game-state logic. Developed with TypeScript and Node.js, from gameplay design through UI and deployment.
+- TypeScript monorepo with a Node.js API and responsive web client
+- Server-authoritative game state and cryptographic randomness
+- PostgreSQL transactions and idempotent mutations
+- Exact probability modeling and simulation-based validation
+- Unit, integration, accessibility, visual, and Playwright E2E tests
+- Docker staging, health checks, structured logging, and CI
 
-### [System Info Tool](https://github.com/Blazebropwn/system-info-tool)
+**[Play the live demo](https://tripleroll.xyz)** · **[Read the technical case study](https://github.com/Blazebropwn/three-dice-showcase)**
 
-A cross-platform Python CLI for inspecting system, CPU, memory, disk, and network information, with structured exports and live monitoring.
+## More projects
 
-### [BlazePort](https://github.com/Blazebropwn/Blazeport)
+- 🖥️ [System Info Tool](https://github.com/Blazebropwn/system-info-tool) — cross-platform Python CLI for system metrics, exports, and live monitoring
+- 🌐 [BlazePort](https://github.com/Blazebropwn/Blazeport) — concurrent TCP scanner for authorized testing with structured result exports
+- 🔐 [Password Generator](https://github.com/Blazebropwn/rootrik-password-generator) — secure Python CLI using explicit opt-in persistence
 
-An educational TCP port scanner for authorized testing, featuring bounded concurrent scanning, service identification, optional banner grabbing, and CSV/TXT exports.
+## Technologies
 
-### [Password Generator](https://github.com/Blazebropwn/rootrik-password-generator)
+**Primary:** TypeScript · JavaScript · Node.js · HTML · CSS · React<br>
+**Backend & data:** Express · PostgreSQL · SQLite · REST APIs<br>
+**Quality & delivery:** Vitest · Playwright · GitHub Actions · Docker · Git · Linux<br>
+**Also learning:** C++ and game-programming fundamentals
 
-A compact Python CLI that uses cryptographically secure randomness, validates its inputs, and only saves generated passwords when explicitly requested.
+## Currently
 
-## Tools and technologies
-
-`C++ (learning)` · `TypeScript` · `JavaScript` · `Node.js` · `React` · `Python` · `Git` · `Linux` · `SQL` · `REST APIs`
-
-## A different kind of engineering background
-
-Emergency services taught me to stay calm under pressure, follow precise procedures, communicate clearly, and solve problems systematically. I bring the same mindset to debugging and software development.
-
-I'm open to junior opportunities in **game development, QA / technical QA, software development, and automation**.
+- Improving THREE DICE and its automated quality checks
+- Building deeper backend and database experience
+- Learning C++ through small game-systems projects
+- Open to a first opportunity in **junior software development or technical IT support**
 
 📍 Czech Republic · 🌐 [tripleroll.xyz](https://tripleroll.xyz)
